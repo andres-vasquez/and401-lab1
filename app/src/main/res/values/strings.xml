@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="enviar">Enviar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="resultado">Resultado</string>
 </resources>
