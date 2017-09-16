@@ -6,4 +6,7 @@
     <string name="enviar">Enviar</string>
     <string name="limpiar">Limpiar</string>
     <string name="resultado">Resultado</string>
+
+    <string name="login_ok">Bienvenido: %s</string>
+    <string name="login_error">Usuario o contraseña incorrecta</string>
 </resources>

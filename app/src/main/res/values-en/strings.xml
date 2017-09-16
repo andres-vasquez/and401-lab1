@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="usuario">User</string>
+    <string name="password">Password</string>
+    <string name="enviar">Send</string>
+    <string name="limpiar">Clear</string>
+    <string name="resultado">Results</string>
+
+    <string name="login_ok">Welcome: %s</string>
+    <string name="login_error">User or Password invalid</string>
+</resources>
